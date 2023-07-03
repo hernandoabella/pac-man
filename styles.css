@@ -12,10 +12,6 @@ body {
   top: 50%;
 }
 
-h1 {
-  color: #fff;
-}
-
 .pacman {
   border-top: 60px solid yellow;
   border-left: 60px solid yellow;
